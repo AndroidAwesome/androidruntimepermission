@@ -24,7 +24,7 @@ Step 2
 
 ```
 dependencies {
-	         implementation 'com.github.androidawesome:androidruntimepermission:v1.0.0'
+	         implementation 'com.github.androidawesome:androidruntimepermission:v1.0.2'
 	}
 ```
 
